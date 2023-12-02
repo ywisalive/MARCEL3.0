@@ -58,8 +58,8 @@ session_start();
                 <div class="col-md-6">
                     <select class="form-control" name="profissional" id="" required>
                         <option value="">Selecione o profissional</option>
-                        <option value="fem">Doutora Feliciana</option>
-                        <option value="masc">Doutor Alberto</option>
+                        <option value="Doutora Feliciana">Doutora Feliciana</option>
+                        <option value="Doutor Alberto">Doutor Alberto</option>
                     </select>
                 </div>
 
@@ -72,20 +72,20 @@ session_start();
                 <div class="col-md-6">
                     <select class="form-control" name="horario" id="" required>
                         <option value="">Selecione o horário</option>
-                        <option value="fem">09:00</option>
-                        <option value="masc">10:00</option>
-                        <option value="fem">11:00</option>
-                        <option value="masc">12:00</option>
-                        <option value="fem">13:00</option>
-                        <option value="masc">14:00</option>
-                        <option value="fem">15:00</option>
-                        <option value="masc">16:00</option>
-                        <option value="fem">17:00</option>
-                        <option value="masc">18:00</option>
-                        <option value="fem">19:00</option>
-                        <option value="masc">20:00</option>
-                        <option value="fem">21:00</option>
-                        <option value="masc">22:00</option>
+                        <option value="09:00">09:00</option>
+                        <option value="10:00">10:00</option>
+                        <option value="11:00">11:00</option>
+                        <option value="12:00">12:00</option>
+                        <option value="13:00">13:00</option>
+                        <option value="14:00">14:00</option>
+                        <option value="15:00">15:00</option>
+                        <option value="16:00">16:00</option>
+                        <option value="17:00">17:00</option>
+                        <option value="18:00">18:00</option>
+                        <option value="19:00">19:00</option>
+                        <option value="20:00">20:00</option>
+                        <option value="21:00">21:00</option>
+                        <option value="22:00">22:00</option>
                     </select>
 
                     
@@ -93,10 +93,10 @@ session_start();
                 <div class="col-md-6">
                     <select class="form-control" name="unidade" id="" required>
                         <option value="">Selecione a unidade</option>
-                        <option value="fem">SODB - SOCIEDADE ODONTOLÓGICA DO BRASIL</option>
-                        <option value="masc">Clinica Odontológia ultra</option>
-                        <option value="fem">Clinica Dentista Odonto</option>
-                        <option value="masc">Clinica Dentista perfeito!</option>
+                        <option value="SODB - SOCIEDADE ODONTOLÓGICA DO BRASIL">SODB - SOCIEDADE ODONTOLÓGICA DO BRASIL</option>
+                        <option value="Clinica Odontológia ultra">Clinica Odontológia ultra</option>
+                        <option value="Clinica Dentista Odonto">Clinica Dentista Odonto</option>
+                        <option value="Clinica Dentista perfeito">Clinica Dentista perfeito</option>
                 </div>
 
                 <input class="btn btn-lg btn-success mb-5 mt-3" type="submit" value="Cadastrar Usuário">

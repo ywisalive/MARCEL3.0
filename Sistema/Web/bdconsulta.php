@@ -25,7 +25,7 @@
 ));
         
     
-       echo "<meta http-equiv='refresh' content='0; URL=../index.php'/>";
+       echo "<meta http-equiv='refresh' content='0; URL=listarconsulta.php'/>";
    /* } else {
        $_SESSION['ok'] = "<div class='alert alert-danger' role='alert'>Dados não conferem!</div>";
        echo "<meta http-equiv='refresh' content='0; URL=cadastrar.php'/>";
